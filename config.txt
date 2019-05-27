@@ -1,0 +1,6 @@
+token=NTgyNzAzNjUxMzk1NjAwNDEx.XOxrfg.BZ6GY8XswkA9aYiRRrehys-r7Is
+owner=410860706213134336
+prefix=a
+game=type ALGERIA 
+stayinchannel=false 
+songinstatus=false
